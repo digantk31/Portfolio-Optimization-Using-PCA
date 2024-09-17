@@ -11,6 +11,8 @@ The project covers:
 - **Sharpe Ratio Maximization**: Optimizing portfolio weights to maximize the Sharpe ratio, a measure of risk-adjusted return.
 - **Visualization**: Displaying the optimized portfolio weights using a pie chart.
 
+![Alt text](https://github.com/digantk31/Portfolio-Optimization-Using-PCA/blob/main/Optimal%20Portfolio%20Allocation.png)
+
 ## Features
 
 - **Stock List**: Analyzes the top 7 stocks—Amazon (AMZN), Apple (AAPL), Nvidia (NVDA), Meta (META), Tesla (TSLA), Microsoft (MSFT), and Google (GOOG).
